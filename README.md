@@ -1,11 +1,12 @@
 # cstudy
-+ redirection
-ㄴ 명령창에서의 redirection
-ㄴ put / get char이용 
-ㄴ word count
+- redirection
++ 명령창에서의 redirection
++ put / get char이용
++ word count
+
 - file read/ write
-ㄴ fopen, fscanf, fprintf
-ㄴ putc, getc
++ fopen, fscanf, fprintf
++ putc, getc
 - console io
 ㄴ getch, kbhit
 ㄴ goto xy, clear screen
