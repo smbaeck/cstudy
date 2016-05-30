@@ -2,7 +2,7 @@
 - redirection
 ++ 명령창에서의 redirection
 + put / get char이용
-+ word count
++ word count \+
 
 - file read/ write
 + fopen, fscanf, fprintf
