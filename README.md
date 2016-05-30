@@ -1,16 +1,16 @@
 # cstudy
-* redirection
+- redirection
 ㄴ 명령창에서의 redirection
 ㄴ put / get char이용 
 ㄴ word count
-* file read/ write
+- file read/ write
 ㄴ fopen, fscanf, fprintf
 ㄴ putc, getc
-* console io
+- console io
 ㄴ getch, kbhit
 ㄴ goto xy, clear screen
-4. pthread생성.
-5. mutex 
+- pthread생성.
+- mutex 
 ㄴ lock, unlock
 6. process생성
 ㄴ fork, exec
