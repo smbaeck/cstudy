@@ -1,5 +1,5 @@
 # cstudy
-- redirection
++ redirection
 ㄴ 명령창에서의 redirection
 ㄴ put / get char이용 
 ㄴ word count
