@@ -43,3 +43,5 @@ dup 중요
 ㄴ git를 이용한 공개 소프트웨어 다운로드
 12. die.net을 통한 unix함수 매뉴얼
 13. msdn.microsoft.com 을 이용한 windows 함수 매뉴얼
+
+14. setjmp, longjmp
